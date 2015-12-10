@@ -6,7 +6,7 @@ published: true
 
 
 
-### Merges audio files into one audio file and creates json data for cue points.
+Merges audio files into one audio file and creates json data for cue points.
 
 # supported formats
 - mp3
