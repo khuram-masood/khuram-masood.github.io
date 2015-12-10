@@ -5,6 +5,6 @@ published: true
 ---
 
 
-## Grunt Sound Sprite Sheet generator
+# grunt-sound-spritesheet
 
 
