@@ -5,6 +5,5 @@ published: true
 ---
 
 
-# grunt-sound-spritesheet
 
-
+### Combines audio files into one audio file and creates json data for cue points.
