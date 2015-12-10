@@ -6,4 +6,11 @@ published: true
 
 
 
-### Combines audio files into one audio file and creates json data for cue points.
+### Merges audio files into one audio file and creates json data for cue points.
+
+# supported formats
+    * mp3
+    * ogg
+
+
+> Compatabile with Howlerjs
